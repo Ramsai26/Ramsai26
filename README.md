@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramsai26
-- 👀 I’m interested in ML applications in CFD
+- 👀 I’m interested in ML applications in FEM/CFD
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on GAN's
 - 📫 How to reach me LinkedIn
